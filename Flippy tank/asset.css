@@ -1,0 +1,9 @@
+
+*, html, body {
+    box-sizing: border-box;
+    font-family: 'Raleway', Arial;
+}
+
+#canvas {
+    border: 1px solid;
+}
